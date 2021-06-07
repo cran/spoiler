@@ -1,0 +1,10 @@
+88ef29ce9c504b12e3d3a9a20d6082bc *DESCRIPTION
+33a8990641ad52a1bebeabfbc4f73be4 *LICENSE
+591d91630a10928a033890eaf4b53574 *NAMESPACE
+6ee3f4d7a58b93fe2fdea586dd6af558 *R/spoiler.R
+861bd75b7ca7679bedac0ef65c31c29c *R/zzz.R
+8921872da4fa19e777d6d012ce5c9ca3 *README.md
+7ef03f7162fbf4881e6b849ebc220840 *inst/WORDLIST
+53edefeb9ab352a838d07f27dfcd6d8e *inst/spoileralert/spoiler.min.js
+5ab2ff89d2b548ee5ab60c77e6d63397 *man/spoiler.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
